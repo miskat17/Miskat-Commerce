@@ -21,7 +21,7 @@
 }
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
-    border-radius: 10px ;
+    border-radius: 20px ;
 }
 .cat1{
 background-image: linear-gradient(to bottom,darkred 0%,red 100%);
